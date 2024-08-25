@@ -1,5 +1,6 @@
 <div align="center">
   <br />
+    <a>
       <img src="https://s3-alpha.figma.com/hub/file/6115089278/4c393b2d-a9a7-4173-9500-ae7a00166b61-cover.png" alt="Project Banner">
     </a>
   <br />
