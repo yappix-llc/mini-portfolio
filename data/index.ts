@@ -140,33 +140,31 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "wordpress",
-    img: "/wp.png",
-    nameImg: "/wpName.png",
+    img: "/yappix.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    img: "/mybuyer.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    img: "/projectorium.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    img: "/sk.svg",
   },
   {
     id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    img: "/hub.svg",
+  },
+  {
+    id: 6,
+    img: "/teez.svg",
+  },
+  {
+    id: 7,
+    img: "/it.svg",
   },
 ];
 
@@ -204,17 +202,22 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-    link: "#",
+    img: "/vk.svg",
+    link: "https://vk.com/renat_ux",
   },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "#",
+    img: "/figma.svg",
+    link: "https://www.figma.com/@renatusmanov",
   },
   {
     id: 3,
     img: "/link.svg",
     link: "https://www.linkedin.com/in/renatusmanov/",
+  },
+  {
+    id: 4,
+    img: "/telegram.svg",
+    link: "https://t.me/renatusmanov_design",
   },
 ];
