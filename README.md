@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner">
+      <img src="https://s3-alpha.figma.com/hub/file/6115089278/4c393b2d-a9a7-4173-9500-ae7a00166b61-cover.png" alt="Project Banner">
     </a>
   <br />
 
@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/.git
+git clone https://github.com/yappix-llc/mini-portfolio.git
 cd portfolio
 ```
 
