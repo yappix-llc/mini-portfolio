@@ -72,68 +72,68 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "YappiX CMS",
+    des: "The Native Mobile App-Builder Platform. No-code solution for creating mobile applications based on iOS and Android (Open AI). Ready-made templates and features on any needs.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://www.behance.net/gallery/107477947/YAPPIX-CMS",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "MY BUYER",
+    des: "CRM for International Marketplace. Platform for Buyers, Logisticians and Sellers (under NDA)",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://www.behance.net/gallery/183350273/The-CRM-for-a-Marketplace",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Projectorium - Cloud Monitoring",
+    des: "A cloud platform for quickly and easily launching and deploying applications.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://www.behance.net/gallery/201766269/Projectorium",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Teez Global. Design system, UI-kit, Dashboards design",
+    des: "The project is under development. The first marketplace is expected that will deliver any product from China in 1 day. I am developing a design system from scratch.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://www.behance.net/gallery/206349071/TeeZ-Buyer-CRM?",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Renat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Renat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Renat is the ideal partner.",
+      "Collaborating with Renat Usmanov has significantly changed the game for the better for our Adobe Stock team. His excellent and timely support of high-quality images and resources has greatly enhanced our creative workflow. Thanks to his expert approach and attention to detail, we always feel confident that we are receiving the most current and in-demand solutions for our projects. Renat Usmanov is a true professional in his field and a reliable partner for our team. Thank you for your valuable collaboration!",
     name: "Michael Johnson",
+    title: "Product Owner at Adobe",
+  },
+  {
+    quote:
+      "Renat Usmanov's design studio has been instrumental in supporting the design system of Papara, our payment service. Thanks to their expertise and dedication, we've been able to maintain a consistent and user-friendly interface across all our platforms. As the owner of Papara, I can confidently say that partnering with Renat's studio has allowed us to focus on what matters most: providing top-notch service and driving profitability. Their attention to detail and commitment to excellence have truly elevated our brand and enhanced the overall user experience. Thank you for your outstanding work!",
+    name: "John Dickson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
       "Collaborating with Renat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Renat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Renat is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Ahmed Karslı",
+    title: "Founder & CEO at Papara",
   },
   {
     quote:
       "Collaborating with Renat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Renat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Renat is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "CTO of Projectorium",
   },
   {
     quote:
-      "Collaborating with Renat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Renat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Renat is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Renat was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Renat's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Renat is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Excellent application! We have been cooperating with this company for many years, and I can confidently say that all products are excellent. The application helps us to effectively manage our resources and improve our business processes. Thank you for the quality work!",
+    name: "Sergei I",
+    title: "Gazprom representative",
   },
 ];
 
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Lead Product Designer – TEEZ GLOBAL",
+    desc: "May 2023 - Present. Led the complete redesign of the company's flagship product, resulting in a 25% increase in user engagement and a 20% reduction in user churn within six months. Worked closely with cross-functional teams to develop design strategies that directly addressed customer feedback, enhancing overall product satisfaction by 15%. Conducted comprehensive user research and usability testing, leading to the implementation of new features that improved user task efficiency by 40%.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Wordpress Developer - Stelmakh and Associates LLC",
+    desc: "May 2022 - Jan 2023. Designed and developed responsive, user-friendly website prototypes using Figma, which improved site navigation and decreased bounce rates by 15%. Built and launched a new WordPress site using Divi Builder, resulting in a 125% increase in organic traffic through optimized SEO practices. Implemented complex form logic and integrated third-party plugins, streamlining user interaction and improving conversion rates by 10%. Managed the integration of Bitrix-CRM, enhancing the firm’s client management efficiency by 20%.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Principal Product Designer – YappiX LLC",
+    desc: "Sep 2015 - Feb 2022. Led the design and implementation of intuitive user interfaces for three major projects, boosting customer satisfaction by 35%. Developed high-fidelity prototypes and wireframes using Adobe Suite, Sketch, and Figma, which were pivotal in achieving a 30% faster approval rate from stakeholders. Played a key role in agile development teams, ensuring the on-time delivery of projects, which contributed to a 200% increase in client retention rates.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Full Stack Engineer – Xtraball ",
+    desc: "Jul 2010 - Mar 2013. Participated in the development team for the creation of the world's first Open Source project www.siberiancms.com - a mobile app designer. My role was to lay out components for a mobile app (blanks) on Angular + Ionic Framework. The goal was to develop a deploy for previewing the pre-compilation of the future application on the web, so that the client could see the changes without restarting the browser and without launching third-party software.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "#",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "#",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/renatusmanov/",
   },
 ];
