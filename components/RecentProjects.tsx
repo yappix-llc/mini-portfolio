@@ -19,8 +19,8 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
-              title="behance.net"
-              href="https://www.behance.net/yappix"
+              title={item.title} // Передаем title из объекта projects
+              href={item.link}   // Передаем ссылку из объекта projects
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
@@ -66,10 +66,12 @@ const RecentProjects = () => {
                 </div>
 
                 <div className="flex justify-center items-center">
+                <a href={item.link} target="_blank" rel="noopener noreferrer" className="flex justify-center items-center z-10">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Behance
+                      Check Behance
                   </p>
-                  <FaLocationArrow className="ms-3" color="#CBACF9" />
+                    <FaLocationArrow className="ms-3" color="#CBACF9" />
+                  </a>
                 </div>
               </div>
             </PinContainer>
